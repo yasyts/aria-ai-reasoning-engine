@@ -1,0 +1,346 @@
+[
+  {
+    "problem_text": "Calculate 15 * 23 + 47 - 12",
+    "problem_type": "MATHEMATICAL",
+    "answer": 380,
+    "strategy": "Mathematical",
+    "score": 0.5200002083548199,
+    "confidence": 0.9
+  },
+  {
+    "problem_text": "Solve the equation 2x + 5 = 15",
+    "problem_type": "MATHEMATICAL",
+    "answer": 5.0,
+    "strategy": "Mathematical",
+    "score": 0.4186540080745493,
+    "confidence": 0.9
+  },
+  {
+    "problem_text": "Find the next number in the sequence: 2, 6, 18, 54",
+    "problem_type": "SEQUENCE",
+    "answer": {
+      "pattern": "geometric",
+      "common_ratio": 3.0,
+      "next_value": 162.0
+    },
+    "strategy": "Pattern",
+    "score": 0.5749096433177991,
+    "confidence": 0.85
+  },
+  {
+    "problem_text": "If all dogs are animals, and Rex is a dog, what is Rex?",
+    "problem_type": "LOGICAL",
+    "answer": "rex is an animal",
+    "strategy": "Logical",
+    "score": 0.6225002759758851,
+    "confidence": 0.85
+  },
+  {
+    "problem_text": "Find the shortest path from A to D given: A-B=3, B-C=2, A-C=6, C-D=1, B-D=5",
+    "problem_type": "OPTIMIZATION",
+    "answer": {
+      "path": "A \u2192 B \u2192 C \u2192 D",
+      "distance": 6.0
+    },
+    "strategy": "Heuristic",
+    "score": 0.45750039991921637,
+    "confidence": 0.85
+  },
+  {
+    "problem_text": "What is the factorial of 10?",
+    "problem_type": "MATHEMATICAL",
+    "answer": 3628800,
+    "strategy": "Mathematical",
+    "score": 0.39500673378007856,
+    "confidence": 0.9
+  },
+  {
+    "problem_text": "Find the roots of x^2 - 5x + 6 = 0",
+    "problem_type": "MATHEMATICAL",
+    "answer": [
+      3.0,
+      2.0
+    ],
+    "strategy": "Mathematical",
+    "score": 0.43500799968021486,
+    "confidence": 0.9
+  },
+  {
+    "problem_text": "What is the mean and standard deviation of: 10, 20, 30, 40, 50",
+    "problem_type": "MATHEMATICAL",
+    "answer": {
+      "mean": 30.0,
+      "standard_deviation": 14.1421
+    },
+    "strategy": "Mathematical",
+    "score": 0.4350032102213171,
+    "confidence": 0.9
+  },
+  {
+    "problem_text": "Solve the equation 2x + 5 = 15",
+    "problem_type": "MATHEMATICAL",
+    "answer": 5.0,
+    "strategy": "Analogical",
+    "score": 0.8942753100334541,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "What is the kinetic energy of a 1200 kg car travelling at 25 m/s?",
+    "problem_type": "GENERAL",
+    "answer": 375000.0,
+    "strategy": "RealWorld",
+    "score": 0.6168742673084981,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "How long in seconds does light take to travel from the Sun to Earth given distance 149600000 km and light speed 300000 km/s?",
+    "problem_type": "OPTIMIZATION",
+    "answer": 498.67,
+    "strategy": "RealWorld",
+    "score": 0.45250179692905074,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate the weight in Newtons of an 80 kg astronaut on the Moon where gravity is 1.62 m/s^2",
+    "problem_type": "MATHEMATICAL",
+    "answer": 129.6,
+    "strategy": "RealWorld",
+    "score": 0.6150003555409012,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate the power in Watts consumed by a circuit with 120 Volts and a current of 2.5 Amperes",
+    "problem_type": "MATHEMATICAL",
+    "answer": 300.0,
+    "strategy": "RealWorld",
+    "score": 0.4525007613218085,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate compound interest total amount on $10000 invested at 7% annual interest compounded annually for 5 years",
+    "problem_type": "MATHEMATICAL",
+    "answer": 14071.0,
+    "strategy": "RealWorld",
+    "score": 0.5924033928404486,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate the monthly mortgage payment on a $300000 loan with 6% annual interest over a 30 year term",
+    "problem_type": "MATHEMATICAL",
+    "answer": 1798.65,
+    "strategy": "RealWorld",
+    "score": 0.5926812627530357,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate the Return on Investment (ROI) percentage if an investment cost $50000 and generated $65000 total revenue",
+    "problem_type": "MATHEMATICAL",
+    "answer": 30.0,
+    "strategy": "RealWorld",
+    "score": 0.6157721473826392,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Using the Rule of 72, how many years will it take for an investment to double at 8% annual return?",
+    "problem_type": "LOGICAL",
+    "answer": "how many years will it take for an investment to double at 8% annual return?; using the rule of 72",
+    "strategy": "Logical",
+    "score": 0.22000428256354396,
+    "confidence": 0.4
+  },
+  {
+    "problem_text": "Find the shortest route distance from LONDON to TOKYO given: LONDON-DUBAI=5500, DUBAI-TOKYO=7930, LONDON-PARIS=344, PARIS-SINGAPORE=10730, SINGAPORE-TOKYO=5320",
+    "problem_type": "OPTIMIZATION",
+    "answer": 5500,
+    "strategy": "RealWorld",
+    "score": 0.538989189322179,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Cargo knapsack capacity 100 kg. Available pallets (value, weight): (60, 20), (100, 50), (120, 30). What is max value?",
+    "problem_type": "OPTIMIZATION",
+    "answer": {
+      "max_value": 0,
+      "selected_items": []
+    },
+    "strategy": "Heuristic",
+    "score": 0.4433864457528448,
+    "confidence": 0.85
+  },
+  {
+    "problem_text": "Calculate the Body Mass Index (BMI) for a person weighing 75 kg with height 1.75 meters",
+    "problem_type": "MATHEMATICAL",
+    "answer": 24.49,
+    "strategy": "RealWorld",
+    "score": 0.6055492586664866,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate pediatric dosage if adult dose is 500 mg and child weight is 20 kg using Clark's rule (child_weight / 70 * adult_dose)",
+    "problem_type": "MATHEMATICAL",
+    "answer": 129.6,
+    "strategy": "Analogical",
+    "score": 0.3037856288822501,
+    "confidence": 0.12
+  },
+  {
+    "problem_text": "Calculate the pressure in Pascals of 2 moles of ideal gas in a 0.05 m^3 container at temperature 300 Kelvin (R = 8.314 J/mol\u00b7K)",
+    "problem_type": "MATHEMATICAL",
+    "answer": 997.68,
+    "strategy": "RealWorld",
+    "score": 0.5879879663236268,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Convert 98.6 degrees Fahrenheit to Celsius using formula (F - 32) * 5 / 9",
+    "problem_type": "MATHEMATICAL",
+    "answer": 37.0,
+    "strategy": "RealWorld",
+    "score": 0.5710021209170341,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "If all patients with condition Alpha have elevated biomarker Beta, and patient John has elevated biomarker Beta, does this prove John has Alpha? If all humans are mammals and all mammals are vertebrates, what are humans?",
+    "problem_type": "LOGICAL",
+    "answer": "and patient john has elevated biomarker beta; does this prove john has alpha? if all humans are mammals and all mammals are vertebrates; if all patients with condition alpha have elevated biomarker beta",
+    "strategy": "Logical",
+    "score": 0.30000113764995745,
+    "confidence": 0.4
+  },
+  {
+    "problem_text": "If all executive board members are shareholders, and Maria is an executive board member, what is Maria?",
+    "problem_type": "LOGICAL",
+    "answer": "rex is an animal",
+    "strategy": "Analogical",
+    "score": 0.2360899567996618,
+    "confidence": 0.23076923076923078
+  },
+  {
+    "problem_text": "Predict the next annual US inflation rate given sequence: 1.8, 2.4, 3.0, 3.6, 4.2",
+    "problem_type": "SEQUENCE",
+    "answer": {
+      "pattern": "quadratic",
+      "second_difference": 2.220446049250313e-16,
+      "next_value": 4.800000000000001
+    },
+    "strategy": "Pattern",
+    "score": 0.5487574520633116,
+    "confidence": 0.85
+  },
+  {
+    "problem_text": "Predict the next transistor count doubling step in thousands: 100, 200, 400, 800",
+    "problem_type": "SEQUENCE",
+    "answer": {
+      "pattern": "geometric",
+      "common_ratio": 2.0,
+      "next_value": 1600.0
+    },
+    "strategy": "Pattern",
+    "score": 0.5831767946801569,
+    "confidence": 0.85
+  },
+  {
+    "problem_text": "What is the kinetic energy of a 1500 kg car travelling at 20 m/s?",
+    "problem_type": "GENERAL",
+    "answer": 300000.0,
+    "strategy": "RealWorld",
+    "score": 0.5889270844465727,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "What is the kinetic energy of a 800 kg car travelling at 30 m/s?",
+    "problem_type": "GENERAL",
+    "answer": 360000.0,
+    "strategy": "RealWorld",
+    "score": 0.6045898038337453,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "What is the kinetic energy of a 2000 kg car travelling at 15 m/s?",
+    "problem_type": "GENERAL",
+    "answer": 225000.0,
+    "strategy": "RealWorld",
+    "score": 0.6100161347020747,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate compound interest total amount on $5000 invested at 5% annual interest compounded annually for 3 years",
+    "problem_type": "MATHEMATICAL",
+    "answer": 5796.37,
+    "strategy": "RealWorld",
+    "score": 0.6025525492767525,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate compound interest total amount on $20000 invested at 8% annual interest compounded annually for 4 years",
+    "problem_type": "MATHEMATICAL",
+    "answer": 27371.38,
+    "strategy": "RealWorld",
+    "score": 0.6122019218214989,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate compound interest total amount on $15000 invested at 6% annual interest compounded annually for 2 years",
+    "problem_type": "MATHEMATICAL",
+    "answer": 16892.44,
+    "strategy": "RealWorld",
+    "score": 0.613858037282945,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate the Body Mass Index (BMI) for a person weighing 65 kg with height 1.7 meters",
+    "problem_type": "MATHEMATICAL",
+    "answer": 22.49,
+    "strategy": "RealWorld",
+    "score": 0.605749339844188,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate the Body Mass Index (BMI) for a person weighing 85 kg with height 1.8 meters",
+    "problem_type": "MATHEMATICAL",
+    "answer": 26.23,
+    "strategy": "RealWorld",
+    "score": 0.5978395622523675,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Calculate the Body Mass Index (BMI) for a person weighing 55 kg with height 1.62 meters",
+    "problem_type": "MATHEMATICAL",
+    "answer": 20.96,
+    "strategy": "RealWorld",
+    "score": 0.593752842469795,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "Convert 32.0 degrees Fahrenheit to Celsius using formula (F - 32) * 5 / 9",
+    "problem_type": "MATHEMATICAL",
+    "answer": 37.0,
+    "strategy": "Analogical",
+    "score": 0.5570520122303465,
+    "confidence": 0.875
+  },
+  {
+    "problem_text": "Convert 212.0 degrees Fahrenheit to Celsius using formula (F - 32) * 5 / 9",
+    "problem_type": "MATHEMATICAL",
+    "answer": 37.0,
+    "strategy": "Analogical",
+    "score": 0.549180345672438,
+    "confidence": 0.875
+  },
+  {
+    "problem_text": "Convert 68.0 degrees Fahrenheit to Celsius using formula (F - 32) * 5 / 9",
+    "problem_type": "MATHEMATICAL",
+    "answer": 20.0,
+    "strategy": "RealWorld",
+    "score": 0.5443188322194408,
+    "confidence": 0.95
+  },
+  {
+    "problem_text": "What is the kinetic energy of a 1200 kg car travelling at 25 m/s?",
+    "problem_type": "GENERAL",
+    "answer": 375000.0,
+    "strategy": "Analogical",
+    "score": 0.7614568073303928,
+    "confidence": 0.95
+  }
+]

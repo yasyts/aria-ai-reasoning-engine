@@ -1,0 +1,137 @@
+{
+  "stats": {
+    "Mathematical": {
+      "MATHEMATICAL": {
+        "total_reward": 7.87238203154,
+        "trials": 25
+      },
+      "SEQUENCE": {
+        "total_reward": 0.7800054310171993,
+        "trials": 3
+      },
+      "LOGICAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "OPTIMIZATION": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "GENERAL": {
+        "total_reward": 1.3000069345446923,
+        "trials": 5
+      }
+    },
+    "Logical": {
+      "MATHEMATICAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "SEQUENCE": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "LOGICAL": {
+        "total_reward": 2.095486598528582,
+        "trials": 7
+      },
+      "OPTIMIZATION": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "GENERAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      }
+    },
+    "Heuristic": {
+      "MATHEMATICAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "SEQUENCE": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "LOGICAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "OPTIMIZATION": {
+        "total_reward": 0.9008868456720611,
+        "trials": 2
+      },
+      "GENERAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      }
+    },
+    "Pattern": {
+      "MATHEMATICAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "SEQUENCE": {
+        "total_reward": 1.7068438900612677,
+        "trials": 3
+      },
+      "LOGICAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "OPTIMIZATION": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "GENERAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      }
+    },
+    "Analogical": {
+      "MATHEMATICAL": {
+        "total_reward": 7.189272170127354,
+        "trials": 17
+      },
+      "SEQUENCE": {
+        "total_reward": 0.5573014130313318,
+        "trials": 2
+      },
+      "LOGICAL": {
+        "total_reward": 0.7372129018477627,
+        "trials": 3
+      },
+      "OPTIMIZATION": {
+        "total_reward": 0.9982490441741132,
+        "trials": 4
+      },
+      "GENERAL": {
+        "total_reward": 1.9189773621328317,
+        "trials": 4
+      }
+    },
+    "RealWorld": {
+      "GENERAL": {
+        "total_reward": 4.676319860673102,
+        "trials": 7
+      },
+      "OPTIMIZATION": {
+        "total_reward": 0.9914909862512298,
+        "trials": 2
+      },
+      "MATHEMATICAL": {
+        "total_reward": 10.646228327120724,
+        "trials": 18
+      },
+      "LOGICAL": {
+        "total_reward": 0.0,
+        "trials": 0
+      },
+      "SEQUENCE": {
+        "total_reward": 0.0,
+        "trials": 0
+      }
+    }
+  },
+  "total_trials": 102
+}

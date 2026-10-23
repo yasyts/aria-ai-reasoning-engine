@@ -1,0 +1,4 @@
+# ARIA requires no external dependencies
+# All algorithms are implemented from scratch in pure Python
+# numpy is optional for advanced numerical operations
+numpy
